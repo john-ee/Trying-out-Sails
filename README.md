@@ -3,9 +3,11 @@
 A first test on handling Sails web framework with the following features :
 * user authentication stored on MySQL
 
-To install you need node js and npm, as well as MySQL with credentials :
+To install you need node js and npm, as well as MySQL with credentials (which you can adapt in /config/connections.js) :
 * username : root
 * password : password
+* database : platform-v0
+
 
 Run the following command after cloning the project :
 
