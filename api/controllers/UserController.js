@@ -12,9 +12,9 @@ module.exports = {
   /**
    * `UserController.name()`
    */
-  name: function (req, res) {
+  username: function (req, res) {
     return res.json({
-      todo: 'name() is not implemented yet!'
+      todo: 'username() is not implemented yet!'
     });
   },
 
